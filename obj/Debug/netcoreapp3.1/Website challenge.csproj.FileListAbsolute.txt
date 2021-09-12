@@ -1,0 +1,92 @@
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\appsettings.json
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.StaticWebAssets.xml
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.exe
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.deps.json
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.runtimeconfig.json
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.runtimeconfig.dev.json
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.pdb
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.Views.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Website challenge.Views.pdb
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\FCIS\task 1 we\.Net\Website challenge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.csprojAssemblyReference.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.AssemblyInfoInputs.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.AssemblyInfo.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.csproj.CoreCompileInputs.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.MvcApplicationPartsAssemblyInfo.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.MvcApplicationPartsAssemblyInfo.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.RazorAssemblyInfo.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.RazorAssemblyInfo.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\staticwebassets\Website challenge.StaticWebAssets.Manifest.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\staticwebassets\Website challenge.StaticWebAssets.xml
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\scopedcss\bundle\Website challenge.styles.css
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.TagHelpers.input.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.TagHelpers.output.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.RazorCoreGenerate.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.RazorTargetAssemblyInfo.cache
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.RazorTargetAssemblyInfo.cs
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.Views.pdb
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.csproj.CopyComplete
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.dll
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.pdb
+D:\FCIS\task 1 we\.Net\Website challenge\obj\Debug\netcoreapp3.1\Website challenge.genruntimeconfig.cache
