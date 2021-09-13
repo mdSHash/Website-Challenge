@@ -19,5 +19,8 @@ namespace Website_challenge.Models
         [NotMapped]
         [Display(Name = "Features")]
         public List<int> FeaturesId { get; set; } = new List<int>();
+        public List<OrderService> OrderServices { get; set; } = new List<OrderService>();
+        public List<OrderFeature> OrderFeatures { get; set; } = new List<OrderFeature>();
+        public DateTime RequestedDeliveryTime { get; set; }
     }
 }

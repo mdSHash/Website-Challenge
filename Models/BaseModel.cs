@@ -10,10 +10,7 @@ namespace Website_challenge.Models
     {
         [Key]
         public int Id { get; set; }
-
-        [Required(ErrorMessage = "NullError")]
         public DateTime AddedDate { get; set; }
-
         public DateTime? ModifiedDate { get; set; }
 
         public string CreatedBy { get; set; }
